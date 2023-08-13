@@ -1,0 +1,11 @@
+*, body, html {
+    font-family: 'Rubik', sans-serif;
+}
+
+.navbar-expand-lg {
+    background-color: #3793F8 !important;
+}
+
+.fixed-bottom {
+    background-color: #3793F8;
+}
